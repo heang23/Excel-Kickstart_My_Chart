@@ -1,4 +1,4 @@
-# Excel Homework: Kickstart My Chart
+# Excel: Kickstart My Chart
 
 ## Background
 
@@ -6,13 +6,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-### Before You Begin
-
-1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive. **Do not add this homework to an existing space**.
-
-2. Store your excel workbooks in here and create a sharable link for submission.
-
-## Instructions
+## To do tasks:
 
 ![Kickstarter Table](Images/FullTable.PNG)
 
@@ -122,10 +116,4 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-## Submission
-
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
-
 - - -
-
-© 2019 Trilogy Education Services
